@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.navbar{
+    position: fixed;
+    color: rgb(7, 12, 17);
+    z-index:4;
+    width: 100%;
+    background: linear-gradient(to top, transparent 0%, rgba(65, 41, 41, 0.3) 50%);
+}
+.scrolled{
+    position: fixed;
+    color: aliceblue;
+    background-color: black;
+    z-index:4;
+    width: 100%;
+    transition: .5s ease;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:70px;
+    padding:0px 20px;
+}
+.logo{
+    height:65px;
+    width:90px;
+    margin: 0px 35px;
+    cursor:pointer;
+    
+}
+.pi{
+    height:30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-right: 15px;
+    cursor:pointer;
+}
+.left{
+    display: flex;
+    align-items: center;
+}
+.right{
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+span{
+    margin-right:30px;
+    cursor:pointer;
+}
+.icon{
+    margin-right: 20px;
+    cursor:pointer;
+}
+.kid{
+    margin-right: 20px;
+    cursor:pointer;
+}
+.profile .options{
+    display: none;
+}
+.profile .arrow-dropdown:hover .options{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+   background-color: black;
+   color: aliceblue;
+   border-radius: 5px;
+   right:200px;
+   top:40px;
+   
+}
+.spand{
+    position: relative;
+    left: 15px;
+    padding: 4px 2px;
+    cursor:pointer;
+}
