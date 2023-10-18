@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/netflix-movie-landing-page/static/css/main.65233881.css",
+    "main.js": "/netflix-movie-landing-page/static/js/main.55e3da29.js",
+    "static/media/861317.jpg": "/netflix-movie-landing-page/static/media/861317.ff62a5e6866fb1b5c19e.jpg",
+    "static/media/1122161.jpg": "/netflix-movie-landing-page/static/media/1122161.c31619186663d557bd3a.jpg",
+    "static/media/netflix.png": "/netflix-movie-landing-page/static/media/netflix.303904f75553a51bbf31.png",
+    "index.html": "/netflix-movie-landing-page/index.html",
+    "main.65233881.css.map": "/netflix-movie-landing-page/static/css/main.65233881.css.map",
+    "main.55e3da29.js.map": "/netflix-movie-landing-page/static/js/main.55e3da29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65233881.css",
+    "static/js/main.55e3da29.js"
+  ]
+}
